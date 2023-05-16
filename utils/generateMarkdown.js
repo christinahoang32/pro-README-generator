@@ -56,9 +56,9 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 
-## License ${renderLicenseBadge(data.license)}
-${renderLicenseSection(data.license)}
-${renderLicenseLink(data.license)}
+## License ${renderLicenseBadge(answers.license)}
+${renderLicenseSection(answers.license)}
+${renderLicenseLink(answers.license)}
 
 ## Contributing
 ${answers.contributing}
