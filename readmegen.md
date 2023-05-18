@@ -1,10 +1,10 @@
-# Testing
+# Test
 
  
 
 
   ## Description
-This is a test for the screenshot
+testing for homework
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,10 +15,10 @@ This is a test for the screenshot
 - [Questions](#questions)
 
 ## Installation
-install this for the test
+node index.js
 
 ## Usage
-answer all questions
+run node and follow the prompt
 
 ## License 
 ![License](https://img.shields.io/badge/License-ISC%20License-blue.svg)
@@ -33,7 +33,7 @@ https://choosealicense.com/licenses/isc-license
 undefined
 
 ## Tests
-test by running this app
+testing 123
 
 ## Questions
-For questions or support, please contact test@gmail.com. You can also find more information and other projects on my [GitHub profile](https://github.com/test123).
+For questions or support, please contact test@gmail.com. You can also find more information and other projects on my [GitHub profile](https://github.com/github.com/test).
